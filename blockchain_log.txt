@@ -1,0 +1,11 @@
+Transaction 1:
+  Sender: Node 1
+  Receiver: Node 2
+  Message: hi
+  Encrypted: [253, 141, 108, 73, 222, 239, 107, 211, 151, 107, 87, 41, 164, 30, 130, 56, 107, 128, 232, 84, 120]
+  Shared Key: 111110
+  Hash: 8f434346648f6b96df89dda901c5176b10a6d83961dd3c1ac88b59b2dc327aa4
+  Signature: bd5a08db98fc41b9a0083acda9b4b42151014823069100c402321bfd691bd707
+  Verification: Verified
+  Timestamp: 2025-11-12 22:30:38
+
